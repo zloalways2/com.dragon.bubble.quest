@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82be343348294046bb3d0fea5cc74b6d, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  rocketLevels:
+  - LevelTime: 120
+    Difficulty: 1
+    Id: 1
+  - LevelTime: 120
+    Difficulty: 2
+    Id: 2
+  - LevelTime: 120
+    Difficulty: 3
+    Id: 3
+  - LevelTime: 100
+    Difficulty: 4
+    Id: 4
+  - LevelTime: 100
+    Difficulty: 5
+    Id: 5
+  - LevelTime: 90
+    Difficulty: 6
+    Id: 6
+  - LevelTime: 80
+    Difficulty: 6
+    Id: 7
+  - LevelTime: 70
+    Difficulty: 6
+    Id: 8
+  - LevelTime: 50
+    Difficulty: 6
+    Id: 9
+  - LevelTime: 50
+    Difficulty: 7
+    Id: 10
+  - LevelTime: 50
+    Difficulty: 7
+    Id: 11
+  - LevelTime: 50
+    Difficulty: 7
+    Id: 12
+  - LevelTime: 45
+    Difficulty: 7
+    Id: 13
+  - LevelTime: 45
+    Difficulty: 7
+    Id: 14
+  - LevelTime: 45
+    Difficulty: 7
+    Id: 15
+  - LevelTime: 45
+    Difficulty: 8
+    Id: 16
+  - LevelTime: 45
+    Difficulty: 8
+    Id: 17
+  - LevelTime: 45
+    Difficulty: 8
+    Id: 18
+  - LevelTime: 45
+    Difficulty: 9
+    Id: 19
+  - LevelTime: 30
+    Difficulty: 10
+    Id: 20
